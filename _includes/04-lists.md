@@ -1,3 +1,3 @@
-:heart:
-:sparkles:
-:tada:
+-:heart:
+-:sparkles:
+-:tada:
